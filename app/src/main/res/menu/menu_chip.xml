@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/movie"
+        android:icon="@drawable/movie"
+        android:title="Movie"
+        app:cnb_iconColor="#FF0000"
+        app:cnb_textColor="#FF0000"
+        app:cnb_backgroundColor="@color/white"/>
+    <item
+        android:id="@+id/series"
+        android:icon="@drawable/tv"
+        android:title="Series"
+        app:cnb_iconColor="#0296E5"
+        app:cnb_textColor="#0296E5"
+        app:cnb_backgroundColor="@color/white"/>
+</menu>

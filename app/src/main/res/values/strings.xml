@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieKatalogue</string>
+    <string name="trending_movies">Trending Movies</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="trending_shows">Trending Series</string>
+    <string name="tv_show_airing_today">Series Airing Today</string>
+    <string name="movie">Movie</string>
+    <string name="series">Series</string>
+    <string name="nonton_pelm">Watchito!</string>
+    <string name="platform">Platform where you can watch!</string>
+    <string name="on_airing">On Airing</string>
+    <string name="cast">Cast</string>
+    <string name="introduction">Introduction</string>
+    <string name="your_favourite_list">Your Favourite List</string>
+    <string name="filter_by">Filter by</string>
+    <string-array name="filter_options">
+        <item>Default</item>
+        <item>Rate</item>
+        <item>Popularity</item>
+    </string-array>
+</resources>
